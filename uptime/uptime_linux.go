@@ -2,7 +2,7 @@
 // Copyright 2014 Canonical Ltd.
 // Licensed under the LGPLv3, see LICENCE file for details.
 //
-// +build !windows
+// +build !windows !darwin
 
 package uptime
 
